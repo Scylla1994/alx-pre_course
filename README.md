@@ -1,1 +1,1 @@
-My first readme for ALX
+I love being a Software Engineer
